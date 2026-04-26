@@ -34,6 +34,9 @@ Despite starting with almost no formal schooling, I proved that dedication can b
 - **Administrative:** Microsoft Office 365 (Expert)
 ---
 
+### 🧑🏻‍💻 Mijn website
+[Link naar de website] (https://pgm-hasan.github.io/My-website/)
+
 ### 📈 GitHub Stats
 ![Hasan's Stats]([https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight](https://github.com/Pgm-Hasan?tab=overview&from=2026-04-01&to=2026-04-26))
 

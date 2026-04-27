@@ -44,7 +44,7 @@ Despite starting with almost no formal schooling, I proved that dedication can b
 
 ### 📫 Connect with me
 - 📍 Based in **Ghent, Belgium**
-- 💼 [LinkedIn Profile]([Link_To_Your_LinkedIn](https://www.linkedin.com/in/hasan-ouzoun-549126405/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzoqZm37jSOKxv8XFnLeAzA%3D%3D))
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/hasan-ouzoun-549126405/)
 - 💬 Languages: **Dutch, Turkish, Arabic & English**
 
 <!--
